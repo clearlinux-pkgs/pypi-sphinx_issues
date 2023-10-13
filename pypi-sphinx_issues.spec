@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinx_issues
 Version  : 3.0.1
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/00/35/a50591c1242d3f3927bcfd0e967c2858fef8fdb50f25b742015b6c841e03/sphinx-issues-3.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/00/35/a50591c1242d3f3927bcfd0e967c2858fef8fdb50f25b742015b6c841e03/sphinx-issues-3.0.1.tar.gz
 Summary  : A Sphinx extension for linking to your project's issue tracker
