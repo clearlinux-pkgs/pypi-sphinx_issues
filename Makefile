@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinx_issues
-URL = https://files.pythonhosted.org/packages/ab/2b/5bc6fac05eba113665f18d4ebe3c1180d1ce3e7b6fd6823835dbec48dd4e/sphinx_issues-5.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/3a/62/b55f1c482ce20acee71185dbebf0497a48d23b325b48925d95d5ce0e4666/sphinx_issues-5.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
